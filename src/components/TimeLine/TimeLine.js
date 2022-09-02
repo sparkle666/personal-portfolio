@@ -46,7 +46,13 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      Sixtus Anyanwu is a student of Micheal Okpara University studying Computer Science. <br />
+      A young chap full of life and loves playing around with computers. <br />
+      You often see him wearing a thick medicated glasses which he has incoporated as an integral part of
+      his dressing style. <br/> Dude basically has no beards. You can call him a Princess if you so wish.
+      He is also a complete recluse and introverted, so keeps just a few friends. <br />
+      Sixtus is a huge fan of Eminem and Tunechi, and when he is not working, he blasts "Godzilla" from 
+      those massive speakers while vibing to the rap rythmn with just his neck. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
